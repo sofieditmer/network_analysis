@@ -1,0 +1,56 @@
+Basic network information:
+
+Type: Graph
+Number of nodes: 93
+Number of edges: 169
+Average degree:   3.6344
+
+Network density: 0.04
+
+Network transitivty: 0.111
+
+The 10 people (nodes) with highest degree centrality:
+
+                 Degree Centrality  Betweenness Centrality  Eigenvector Centrality
+node                                                                              
+Clinton                   0.793478                0.732612                0.539641
+Bush                      0.228261                0.087694                0.284643
+Trump                     0.184783                0.020878                0.282742
+Cruz                      0.173913                0.034759                0.252294
+Donald Trump              0.163043                0.011801                0.262974
+Hillary Clinton           0.152174                0.006564                0.239332
+Hillary                   0.086957                0.001475                0.144665
+Obama                     0.076087                0.000000                0.156353
+Kasich                    0.076087                0.000000                0.157613
+Ted Cruz                  0.076087                0.000040                0.178973
+
+The 10 people (nodes) with highest betweenness centrality:
+
+                 Degree Centrality  Betweenness Centrality  Eigenvector Centrality
+node                                                                              
+Clinton                   0.793478                0.732612                0.539641
+Bush                      0.228261                0.087694                0.284643
+Ryan                      0.065217                0.075669                0.086117
+Boehner                   0.065217                0.058051                0.008596
+Cruz                      0.173913                0.034759                0.252294
+Trump                     0.184783                0.020878                0.282742
+Paul                      0.054348                0.019589                0.052618
+Abedin                    0.054348                0.019589                0.067061
+Donald Trump              0.163043                0.011801                0.262974
+Hillary Clinton           0.152174                0.006564                0.239332
+
+The 10 people (nodes) with highest eigenvector centrality:
+
+                 Degree Centrality  Betweenness Centrality  Eigenvector Centrality
+node                                                                              
+Clinton                   0.793478                0.732612                0.539641
+Bush                      0.228261                0.087694                0.284643
+Trump                     0.184783                0.020878                0.282742
+Donald Trump              0.163043                0.011801                0.262974
+Cruz                      0.173913                0.034759                0.252294
+Hillary Clinton           0.152174                0.006564                0.239332
+Ted Cruz                  0.076087                0.000040                0.178973
+Marco Rubio               0.065217                0.000000                0.159504
+Kasich                    0.076087                0.000000                0.157613
+Obama                     0.076087                0.000000                0.156353
+
