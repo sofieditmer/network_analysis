@@ -39,7 +39,7 @@ Once the virtual environment has been set up and the relevant dependencies liste
 $ source network_venv/bin/activate
 ```
 
-Once the virtual environment has been activated, the user is now able to run the ```sentiment.py``` script within it:
+Once the virtual environment has been activated, the user is now able to run the scripts within it:
 
 ```
 (network_venv) $ cd src
